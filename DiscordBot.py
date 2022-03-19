@@ -1,3 +1,5 @@
+# first install discord.py
+# pip install discord.py
 import discord
 from discord.ext import commands
 import RPi.GPIO as io
